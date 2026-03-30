@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ismail
+Junior C#/.NET Developer
+Learning every day, building real-world applications, and focusing on clean, maintainable code.
 
-<!--
-**ilgiso91/ilgiso91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools
+- C#, .NET
+- OOP (Object-Oriented Programming)
+- JSON Data Handling
+- Console Applications
+- Git & GitHub
 
-Here are some ideas to get you started:
+🚀 Featured Project
+ATM Simulation – C# Console Application
+A fully featured ATM simulation with:
+- Multi-language support (TR / EN / DE)
+- Theme customization
+- Admin panel
+- JSON-based data storage
+- Account types & transaction logs
+🔗 Project Link:
+https://github.com/ilgiso91/ATM-Project-CSharp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 What I'm Working On
+- Improving my C#/.NET skills
+- Building practical projects
+- Learning clean code principles
+- Preparing for junior developer roles
+
+Thanks for visiting my profile!
